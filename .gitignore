@@ -1,0 +1,25 @@
+# Libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/obj/
+/dist/
+/output/
+/.cache/
+/.vscode/
+*.o
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.log
+compile_commands.json
